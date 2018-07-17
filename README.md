@@ -4,6 +4,8 @@
 ## Voice Recognition
 - [Lyrebird](https://lyrebird.ai/) Clone your own voice or get a unique custom voice for your business.
 
+## Video
+- [OpenALPR](https://cloud.openalpr.com/) Automatic License Plate Recognition
 
 # Categories
 
@@ -36,3 +38,4 @@
 - [Dynamic Yield](https://www.dynamicyield.com/) Full suite of personalization & engagement solutions to drive revenue and engagement throughout the customer journey
 - [Appier](https://www.appier.com/en/index.html) Provide artificial intelligence platforms to help enterprises solve their most challenging business problems.
 - [Twiggle](https://www.twiggle.com/) 
+
