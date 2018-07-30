@@ -7,6 +7,9 @@
 ## Video
 - [OpenALPR](https://cloud.openalpr.com/) Automatic License Plate Recognition
 
+## Conversational
+- [Init.ai](https://www.init.ai/) Automate conversations, Analyze them for actionable insights, and Assist sales and support staff in communications
+
 # Categories
 
 ## Robotics
