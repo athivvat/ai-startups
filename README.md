@@ -10,6 +10,9 @@
 ## Conversational
 - [Init.ai](https://www.init.ai/) Automate conversations, Analyze them for actionable insights, and Assist sales and support staff in communications
 
+# AI Platform
+- [Sentient.ai](https://www.sentient.ai/) Applying its patented artificial intelligence technologies to create unique solutions in verticals such as investment, medical diagnosis and ecommerce.
+
 # Categories
 
 ## Robotics
