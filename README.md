@@ -6,6 +6,7 @@
 
 ## Video
 - [OpenALPR](https://cloud.openalpr.com/) Automatic License Plate Recognition
+- [vi.ai](https://www.vi.ai/) A contextual video platform
 
 ## Conversational
 - [Init.ai](https://www.init.ai/) Automate conversations, Analyze them for actionable insights, and Assist sales and support staff in communications
