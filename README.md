@@ -49,7 +49,7 @@
 
 ## Healthcare
 
-| <div style="width:120px">Company</div> | Details |
+| Company | Details |
 | --------| ------- |
 | Caption Health                         |         |
 | Recursion                              |         |
@@ -62,20 +62,20 @@
 
 ## Smarthome
 
-| <div style="width:120px">Company</div> | Details |
+| Company | Details |
 | --------| ------- |
 | [Origin Wireless AI](https://www.originwirelessai.com/) |         |
 
 ## Consumer Devices
 
-| <div style="width:120px">Company</div> | Details |
+| Company | Details |
 | --------| ------- |
 | Audio ANalytics                        |         |
 | Fritz.AI                               |         |
 
 ## Retail & CPG
 
-| <div style="width:120px">Company</div> | Details |
+| Company | Details |
 | --------| ------- |
 | MSIGHT                                 |         |
 | AIFI                                   |         |
@@ -84,13 +84,13 @@
 
 ## Media
 
-| <div style="width:120px">Company</div> | Details |
+| Company | Details |
 | --------| ------- |
 | [descript](https://www.descript.com/)  | Descript is a collaborative audio/video editor that works like a doc. It includes transcription, a screen recorder publishing, full multitrack editing, and some mind-bendingly useful AI tools. |
 
 ## Supply Chain & Logistics
 
-| <div style="width:120px">Company</div> | Details |
+| Company | Details |
 | --------| ------- |
 | covariant                                      |         |
 | OSARO                                          |         |
@@ -100,14 +100,14 @@
 
 ## Waste Management
 
-| <div style="width:120px">Company</div> | Details |
+| Company | Details |
 | --------| ------- |
 | [AMP Robotics](https://www.amprobotics.com/) | Enabling a world without waste through artificial intelligence |
 | [greyparrot](https://www.greyparrot.ai/)     |                                                                |
 
 ## Finance & Insurance
 
-| <div style="width:120px">Company</div> | Details |
+| Company | Details |
 | --------| ------- |
 | zesty.ai                               |         |
 | AKUR8                                  |
@@ -116,14 +116,14 @@
 
 ## Manufacturing
 
-| <div style="width:120px">Company</div> | Details |
+| Company | Details |
 | --------| ------- |
 | drishti                                |         |
 | [Landing AI](https://landing.ai/)      |         |
 
 ## Food & Agriculture
 
-| <div style="width:120px">Company</div> | Details |
+| Company | Details |
 | --------| ------- |
 | [prospera](https://www.prospera.ag/)   | Transforming the way food is grown with Data and Artificial Intelligence |
 | Aquabyte                               |
@@ -131,39 +131,39 @@
 
 ## Construction
 
-| <div style="width:120px">Company</div> | Details |
+| Company | Details |
 | --------| ------- |
 | [Openspace](https://openspace.ai)      |         |
 
 ## Defense
 
-| <div style="width:120px">Company</div> | Details |
+| Company | Details |
 | --------| ------- |
 | Deepsig                                |         |
 
 ## Education
 
-| <div style="width:120px">Company</div> | Details |
+| Company | Details |
 | --------| ------- |
 | ELSA                                   |         |
 | Riiid                                  |         |
 
 ## Legal
 
-| <div style="width:120px">Company</div> | Details |
+| Company | Details |
 | -------------------------------------- | ------- |
 | LegalForce                             |         |
 | lexion                                 |         |
 
 ## Mining
 
-| <div style="width:120px">Company</div> | Details |
+| Company | Details |
 | --------| ------- |
 | [KoBold Metals](https://www.koboldmetals.com/) | KoBold Metals brings together luminaries of mineral exploration, vanguard Silicon Valley data science, and patient, private capital to explore for, and invest in, Nickel, Cobalt, Lithium, Copper, and other critical material projects across the globe. |
 
 ## Transportation
 
-| <div style="width:120px">Company</div> | Details |
+| Company | Details |
 | --------| ------- |
 | paralle domain                         |                                                                                                                        |
 | KONUX                                  |                                                                                                                        |
@@ -175,13 +175,13 @@
 
 ## Gaming
 
-| <div style="width:120px">Company</div> | Details |
+| Company | Details |
 | --------| ------- |
 | modl.ai                                |         |
 
 ## Energy
 
-| <div style="width:120px">Company</div> | Details |
+| Company | Details |
 | --------| ------- |
 | [BrainBox AI](https://www.brainboxai.com/) | BrainBox AI utilizes self-adapting artificial intelligence technology to proactively optimize one of the world’s largest energy consumers and GHG emitters: buildings. |
 | [myst ai](https://www.myst.ai/)            | Leveraging machine learning to create accurate forecasting that readies your business for the days ahead.                                                              |
@@ -192,7 +192,7 @@
 
 A cloud-hosted or containerized services/models that allow development teams and business users to leverage artificial intelligence (AI) models via APIs, software development kits (SDKs), or applications without requiring deep data science expertise. These hosted models deliver services with capabilities in language, vision and automated machine learning (ML).
 
-| <div style="width:120px">Company</div> | Details |
+| Company | Details |
 | --------| ------- |
 | [Humaan](https://humaan.ai) |         |
 
