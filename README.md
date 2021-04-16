@@ -188,6 +188,72 @@
 
 # Computing, Data Processing, and AI Development
 
+## AI Processors
+
+| Company | Details |
+| --------| ------- |
+| Horizon Robotics | |
+| Tenstorrent | |
+| blaize | |
+| SYNTIANT | |
+| GRAPHCORE | |
+
+
+## Data Science Platforms
+
+| Company | Details |
+| --------| ------- |
+| dataiku | |
+
+## Deep Learning Accelerators
+
+| Company | Details |
+| --------| ------- |
+| [deci](https://deci.ai/) | |
+| [run.ai](https://www.run.ai/) | |
+| [LatentAI](https://latentai.com/) | | 
+
+## AIOPS (IT & DevOps Automation)
+
+| Company | Details |
+| --------| ------- |
+| harness | |
+| snyk | |
+| StormForge | |
+
+## Data Annotation
+
+| Company | Details |
+| --------| ------- |
+| [AI.REVERIE](https://aireverie.com/) | |
+| [Scale](https://scale.com) | |
+| [SuperAnnotate](https://superannotate.com/) | |
+
+## ML Experiment Tracking
+
+| Company | Details |
+| --------| ------- |
+| Weights & Biases | |
+| neptune.ai | |
+
+## AI Model Monitoring
+
+| Company | Details |
+| --------| ------- |
+| fiddler | |
+| [Arthur](https://www.arthur.ai/) | |
+
+## Feature Stores & MLOps Platform
+
+| Company | Details |
+| --------| ------- |
+| Algorithmia | |
+| ONEFLOW | |
+| SELDON | |
+| [tecton](https://www.tecton.ai/) | |
+| SPELL | |
+| [DARWIN AI](https://www.darwinai.com/) | |
+
 ## AI/ML Platform
 
 A cloud-hosted or containerized services/models that allow development teams and business users to leverage artificial intelligence (AI) models via APIs, software development kits (SDKs), or applications without requiring deep data science expertise. These hosted models deliver services with capabilities in language, vision and automated machine learning (ML).
@@ -197,3 +263,89 @@ A cloud-hosted or containerized services/models that allow development teams and
 | [Humaan](https://humaan.ai) |         |
 
 # Cross-Industry AI Applications
+
+## Machine Translation
+
+| Company | Details |
+| --------| ------- |
+| [LILT](https://lilt.com/) | | 
+
+## Speech Recognition
+
+| Company | Details |
+| --------| ------- |
+| DEEPGRAM | |
+
+## Computer Vision
+
+| Company | Details |
+| --------| ------- |
+| Matroid | |
+
+## Cybersecurity
+
+| Company | Details |
+| --------| ------- |
+| INKY | |
+| SentinelOne | |
+| securiti | |
+| Robust Intelligence | |
+| [Blue Hexagon](https://bluehexagon.ai/) | |
+
+## NLP & Conversational AI
+
+| Company | Details |
+| --------| ------- |
+
+## Enterprise Search
+
+| Company | Details |
+| --------| ------- |
+| coveo | |
+| [jina](https://jina.ai/) | |
+
+## Remote Inspection
+
+| Company | Details |
+| --------| ------- |
+| Percepto | |
+
+## Document Analysis
+
+| Company | Details |
+| --------| ------- |
+| [Hyperscience](https://hyperscience.com/) | |
+| ROSSUM | |
+| Eigen Technologies | |
+| [Cinnamon AI](https://cinnamon.is/) | |
+
+## Sales & CRM
+
+| Company | Details |
+| --------| ------- |
+| Clari | |
+| tact.ai | |
+| [Recurrent](https://www.rcrai.com/) | |
+| PolyAI | |
+| [Cresta](https://cresta.com/) | |
+
+## Climate Risk Scoring
+
+| Company | Details |
+| --------| ------- |
+| [Jupiter](https://jupiterintel.com/) | Climate risk analytics and risk management |
+
+## Water Leak Detection
+
+| Company | Details |
+| --------| ------- |
+| [Water Intelligence](http://www.waterintelligence.co.uk/) | |
+
+## Other R&D
+
+| Company | Details |
+| --------| ------- |
+| [Pryon](https://pryon.com/) | |
+| [Cogent Labs](https://www.cogent.co.jp/en/) | |
+| [ExaWizards](https://exawizards.com/) | 
+| [InstaDeep](https://www.instadeep.com/) | |
